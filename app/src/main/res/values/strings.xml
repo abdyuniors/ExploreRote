@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Explore Rote</string>
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="description">Deskripsi</string>
+    <string name="location">Lokasi</string>
+    <string name="price">Tiket Masuk</string>
+    <string name="about">About</string>
+    <string name="gambar_wisata">Gambar Wisata</string>
+    <string-array name="data_name">
+        <item>Batu Termanu</item>
+        <item>Pantai Boa</item>
+        <item>Pantai Lifulada</item>
+        <item>Pantai Nembrala</item>
+        <item>Pulau Doo</item>
+        <item>Pantai Oeseli</item>
+        <item>Telaga Nirwana</item>
+        <item>Pantai Tolanamon</item>
+        <item>Tiang Bendera</item>
+        <item>Pantai Tongga</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Sebagai salah satu kawasan tempat wisata di Nusa Tenggara Timur, kawasan Rote memang memiliki keindahan yang berbeda dari yang lain. salah satu destinasi tempat wisata di Rote Ndao yang wajib kalian kunjungi adalah Batu Termanu. Kawasan wisata yang satu merupakan salah satu destinasi wisata alam indonesia yang tersembunyi. Nama dari lokasi wisata ini mungkin belum banyak diketahui oleh banyak orang, apalagi tentang keindahan alamnya yang bisa dikatakan cukup menakjubkan. Kawasan wisata yang satu ini, sedikit banyak memiliki beberapa kemiripan dengan wisata Baluran yang sudah terkenal. Suasana padang savana sangat kental bisa kita rasakan di lokasi ini. </item>
+        <item>Pantai Boa merupakan salah satu obyek wisata pantai terbaik di NTT. Pantai ini memiliki bentangan pasir putih yang luas dan panjang, selain itu areal pantai ini juga bersih. Pantai Boa sangat cocok untuk berselancar karena memiliki frekuensi gelombang yang cukup tinggi, wisatawan yang berkunjung adalah wisatawan Domestik dan Mancanegara. Di pantai ini juga sering diadakan perlombaan surfing bertaraf Internasional. Letak pantai juga tidak jauh dari akses umum sehingga mudah dijangkau oleh siapa saja.</item>
+        <item>Lifulada merupakan salah objek wisata pantai yang mulai ditata dan di kelola ditahun 2019. Jalan masuk pantai ini terdapat papan petunjuk yang sekitarnya banyak ditumbuhi pohon kelapa yang sering dijadikan objek foto. Bibir pantai ini terdapat pepohonan dan juga lopo sederhana yang dapat dijadikan tempat berteduh, ada juga beberapa spot foto dan juga wahana permainan.  Tepat di sisi kiri membentang batu karang yang seolah memagari pantai, di atas batu karang ini terdapat tulisan nama pantai Lifulada. Garis pantainya tidak terlalu panjang, dengan hamparan pasir putih dan biru dan jernihnya air laut, sementarai sisi kanan bibir pantai berbatu karang.</item>
+        <item>Selama ini jika kita berbicara mengenai destinasi wisata pantai, maka yang terlintas adalah beberapa pantai-pantai di bali. Namun, bisa juga kita akan teringat tentang beberapa pantai yang menjadi tempat wisata di Lombok. Namun, Kawasan Rote Ndao sendiri memiliki sebuah pantai yang tak kalah indahnya dari pantai-pantai wisata yang lain. Bahkan, pantai yang satu ini merupakan salah satu tempat wisata yang banyak dikunjungi turis asing di Indonesia. Mereka yang datang ke pantai ini bertujuan untuk menikmati keindahan pantai dan deburan ombaknya. Kawasan wisata yang satu ini memang sudah terkenal sebagai salah satu spot surfing yang cukup terkenal. </item>
+        <item>Sebagai negara kepulauan memang tak mengherankan jika indonesia memiliki banyak sekali destinasi wisata bahari. Setiap wisata bahari di Indonesia dijamin memiliki keindahan yang selalu membuat setiap orang terpesona. Salah satu tempat wisata bahari yang cukup cantik dan menari untuk di kunjungi adalah Pulau Do’o. Pulau yang satu ini mungkin masih belum banyak yang tau, kecuali jika kalian sudah pernah berkunjung dan berwisata di kawasan Rote Ndao. Pulau yang satu ini bukanlah sebuah pulau biasa yang bisa kita abaikan begitu saja. Salah satu kelebihan yang dimiliki oleh pulau yang satu ini, terletak pada pemandangan bawah lautnya. Sebagai salah satu tempat scuba diving di Indonesia, bukanlah sebuah isapan jempol belaka. </item>
+        <item>Pantai Oeseli  menawarkan pemandangan alam yang sangat mempesona dan menakjubkan. Dengan hamparan pasir putihnya yang bersih, air laut yang jernih serta dihiasi dengan batu cadas di sekitar pantainya. Seolah-olah sebagai gerbang pintu masuk raksasa ke Rote Ndao. Pantai Oeseli merupakan pantai paling selatan yang berpenghuni di Wilayah Indonesia. Di sebelah selatannya lagi hanya ada pulau Ndana. Pulau ini bisa dikatakan tidak dihuni penduduk, hanya didiami oleh pangkalan militer dari kesatuan Marinir TNI AL. Pantai ini masih sangat alami, bersih dan belum tercemar. Sehingga pengunjung akan merasa nyaman seperti berada di pantai pribadi ketika berlibur ke Pantai Oeseli. Karena memang belum banyak wisatawan baik mancanegara maupun nusantara yang datang untuk berlibur ke pantai yang satu ini. Pantai Oeseli hanya ramai dikunjungi oleh anak muda dari Desa Oeseli pada saat libur. Di pantai ini pengunjung bisa bersantai dengan tenang sambil duduk menikmati pemandangan laut sambil menyaksikan indahnya laut biru atau berjemur sinar matahari diatas hamparan pasir putih pantai yang sangat bersih dan berkilau.</item>
+        <item>Sekilas Telaga Nirwana mirip dengan Laguna Weekuri di Pulau Sumba yang sudah dikenal luas. Menyusuri teluk yang panjangnya sekitar 500en dash600 meter dengan view dinding bebatuan karang dan rimbunnya pohon bakau membawa kita pada mulut telaga. Telaga ini ibarat kolam alami yang ukurannya lebih luas dibanding Laguna Weekuri. Jernihnya air laut membuat kamu dengan mudah melihat dasar dengan kumpulan ikan yang berenang bebas. Air laut yang tenang sangat cocok untuk melakukan aktivitas air seperti berenang, kano, dan paddle. Terdapat batuan alami dalam telaga yang unik karena berbentuk hati. Selain pepohon, telaga ini juga di kelilingi oleh bebatuan cadas yang terlihat seolah memagari sekelilingnya. Menikmati keindahan telaga dari atas bebatuan karang yang menjulang tinggi membuat pengunjung berdecak kagum. Menurut penuturan warga setempat, dahulu telaga ini menjadi tempat permohonan doa para nelayan sebelum pergi melaut. Keindahan Telaga Nirwana bahkan mendapat juara satu Anugerah Pesona Indonesia dalam Kategori Wisata Air. Surga tersembunyi ini terletak di Dusun Kotalai, Desa Oeseli, Kecamatan Rote Barat Daya. </item>
+        <item>Keberadaan pantai-pantai berpasir putih dengan air jernih berwarna kebiruan menjadi daya tarik tersendiri dari Kepulauan Rote. Tidak jarang juga Rote dibanding-bandingkan dengan Raja Ampat yang sudah lebih dahulu terkenal di kalangan wisatawan. Salah satu pesona tersembunyi dari Kepulauan Rote dapat ditemukan di Pantai Tolanamon. Selain pemandangan alamnya yang indah, pantai ini juga masih sepi pengunjung sehingga suasananya sangat tenang dan damai. Dalam bahasa Rote, Tolanamon bisa diartikan sebagai teluk yang menusuk. Nama ini sesuai dengan bentuk teluknya yang runcing menjorok ke bibir pantai yang berpasir putih. Sementara tebing-tebing di sekelilingnya berjajar mengapit pantai hingga ke tengah teluk, seakan hendak menyembunyikan pesona pantai ini dari dunia luar. Meski demikian, batuan tebing ini jugalah yang memberikan perlindungan dari hempasan ombak besar, sehingga pengunjung dapat berenang dengan bebas di perairannya yang tenang.</item>
+        <item>Pantai Tiang Bendera merupakan objek wisata dengan spot menikmati matahari terbenam (sunset) di Pulau Rote sebagi andalannya. Maka dari itu, menjelang sore hari pantai ini cukup ramai pengunjung yang hendak menghabiskan momen bersama psangan maupun keluarga. Area pesisir pantai pun telah dilengkapi dengan lopo-lopo/gazebo yang bisa simanfaatkan oleh pengunjung untuk bersantai sejenak. Pantai ini pun semakin sedap dipandang dengan adanya sejumlah batu karang cadas yang bentuk dan ukurannya yang bervariatif sebagai penghiasnya. Sementara itu, Batu Tiang Bendera merupakan gugusan pulau karang yang berjarak sekitar 500 m dari bibir Pantai Baadale. Penamaan tiang bendera sendri juga sangat berkaitan dengan sebuah peristiwa heroik kala melawan penjajah Belanda. Kemudian, sebuah tugu batu beton setinggi 2,5 meter yang sengaja dibangun oleh Belanda yang terletak di atas batuan karang tengah laut. Dikisahkan jika tugu tersebut dibangun sebagai petannda jika tanah tersebut ada di bawah kekuasaan Belanda.</item>
+        <item>Tongga beach merupakan salah satu pilihan bagi anda yang hendak menyebrang ke Pulau Nuse. Pantai berpasir putih ini memiliki daya tarik sendiri, dimana saat surut jarak airnya bisa mencapai satu kilometer dari bibir pantai, dan saat pasangnya sangat cepat. Terdapat juga vegetasi mangrove yang cukup banyak disisi kanan, memiliki hamparan padang datar yang luas dengan hadirnya pepohonan kelapa menambah daya tarik. Hewan seperti sapi dan kambing berkeliaran bebas disini. Mengamati aktivitas nelayan penangkap hasil laut serta rumput laut juga dapat anda temukan disini. Letak pantai ini sekitar 41 kilomenter atau sekitar 1 jam 15 menit dari Kota Ba’a. Termasuk dalam wilayah  Dusun Tongga, Desa Mbueain, Kecamatan Rote Barat, Kabupaten Rote Ndao, NTT.</item>
+    </string-array>
+    <string-array name="data_location">
+        <item>Onotali, Kec. Rote Tengah</item>
+        <item>Boa, Kec. Rote Barat</item>
+        <item>Oenggaut, Kec. Rote Barat</item>
+        <item>Nembrala, Kec. Rote Barat</item>
+        <item>Doo, Kec. Ndao Nuse</item>
+        <item>Oeseli, Kec. Rote Barat Daya</item>
+        <item>Oeseli, Kec. Rote Barat Daya</item>
+        <item>Kuli, Kec. Lobalain</item>
+        <item>Baadale, Kec. Lobalain</item>
+        <item>Mbueain, Kec. Rote Barat</item>
+    </string-array>
+    <string-array name="data_price">
+        <item>Free</item>
+        <item>Rp. 10000</item>
+        <item>Rp. 10000</item>
+        <item>Free</item>
+        <item>Rp. 50000</item>
+        <item>Free</item>
+        <item>Rp. 25000</item>
+        <item>Rp. 5000</item>
+        <item>Rp. 5000</item>
+        <item>Rp. 10000</item>
+    </string-array>
+    <string-array name="data_lat">
+        <item>-10.6775337</item>
+        <item>-10.9364242</item>
+        <item>-10.9279896</item>
+        <item>-10.8899627</item>
+        <item>-10.8294014</item>
+        <item>-10.9136651</item>
+        <item>-10.9147415</item>
+        <item>-10.8322614</item>
+        <item>-10.7254094</item>
+        <item>-10.7823002</item>
+    </string-array>
+    <string-array name="data_lng">
+        <item>123.0916639</item>
+        <item>122.8199772</item>
+        <item>122.8317088</item>
+        <item>122.8200295</item>
+        <item>122.7188018</item>
+        <item>122.882411</item>
+        <item>122.9083323</item>
+        <item>123.1897425</item>
+        <item>123.0261056</item>
+        <item>122.8082669</item>
+    </string-array>
+    <string-array name="data_email">
+        <item>tempakun4@gmail.com</item>
+        <item>tempakun4@gmail.com</item>
+        <item>tempakun4@gmail.com</item>
+        <item>tempakun4@gmail.com</item>
+        <item>tempakun4@gmail.com</item>
+        <item>tempakun4@gmail.com</item>
+        <item>tempakun4@gmail.com</item>
+        <item>tempakun4@gmail.com</item>
+        <item>tempakun4@gmail.com</item>
+        <item>tempakun4@gmail.com</item>
+    </string-array>
+    <string-array name="data_phone">
+        <item>6282258310242</item>
+        <item>6282258310242</item>
+        <item>6282258310242</item>
+        <item>6282258310242</item>
+        <item>6282258310242</item>
+        <item>6282258310242</item>
+        <item>6282258310242</item>
+        <item>6282258310242</item>
+        <item>6282258310242</item>
+        <item>6282258310242</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/batutermanu</item>
+        <item>@drawable/boa</item>
+        <item>@drawable/lifulada</item>
+        <item>@drawable/nembrala</item>
+        <item>@drawable/pulaudoo</item>
+        <item>@drawable/sai</item>
+        <item>@drawable/telaganirwana</item>
+        <item>@drawable/tolanamon</item>
+        <item>@drawable/tiangbendera</item>
+        <item>@drawable/tongga</item>
+    </integer-array>
+</resources>
